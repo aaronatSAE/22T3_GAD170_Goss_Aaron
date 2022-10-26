@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Temperature Checker.unity
     guid: ea7642ca15a7f6041b0f1317856b3dba
   - enabled: 1
-    path: Assets/Scenes/Activities - Week 02.unity
+    path: Assets/Week 02/Scenes/Activities - Week 02.unity
     guid: 4deceb9e8071c654eb3c76af9a148cd6
   m_configObjects: {}
